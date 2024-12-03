@@ -1,2 +1,2 @@
-Aluimno: José Adalid Jiménez Alas
+Alumno: José Adalid Jiménez Alas
 Técnico Superior Univeristario en Codigo Abierto ESIT
